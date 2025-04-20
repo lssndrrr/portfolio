@@ -12,12 +12,12 @@ export default function Start() {
           ideas into reality through <i>even better</i> code.
         </p>
         <p className="font-inter text-xl">
-          I am currently broadening my horizons across different areas of
+          {`I am currently broadening my horizons across different areas of
           computer science, like in the fields of AI and ML. I am also
           continuously expanding my toolkit with new technologies (you can't go
           wrong with having a few more under your belt!). With that, I am always
           on the lookout for internships or collaborations that will help me
-          with my current goal.
+          with my current goal.`}
         </p>
       </div>
     </section>
