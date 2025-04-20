@@ -1,9 +1,9 @@
 export default function Start() {
   return (
-    <section className="flex flex-col p-10 gap-16 pt-16">
+    <section className="flex flex-col p-10 gap-16 -pt-10 -mt-6 justify-center h-[100vh]">
       <header className="font-playfair">
-        <p className="text-6xl">Welcome to my</p>
-        <p className="text-8xl italic">space.</p>
+        <p className="text-7xl">Welcome to my</p>
+        <p className="text-9xl italic -mt-4">space.</p>
       </header>
       <div className="flex flex-col gap-2">
         <p className="font-inter text-xl">

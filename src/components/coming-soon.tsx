@@ -2,7 +2,7 @@ export default function ComingSoon() {
   return (
     <div className="h-[100vh] p-10 flex flex-col justify-center">
       <h3 className="font-inter text-9xl">Coming</h3>
-      <h3 className="font-playfair italic text-9xl mb-10">soon.</h3>
+      <h3 className="font-playfair italic text-9xl mb-10 -mt-10">soon.</h3>
       <p className="font-inter text-xl mb-4">
         This site is currently under construction. In the meantime,
         <br />
