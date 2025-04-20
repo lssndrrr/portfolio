@@ -6,12 +6,14 @@ const playfair_display = Playfair_Display({
   variable: "--font-playfair",
   subsets: ["latin"],
   style: ["normal", "italic"],
+  display: "swap",
 });
 
 const inter_tight = Inter_Tight({
   variable: "--font-inter",
   subsets: ["latin"],
   style: ["normal"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
