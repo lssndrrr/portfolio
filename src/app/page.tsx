@@ -1,5 +1,5 @@
 import Start from "@/components/home";
-import Dial from "@/components/dial";
+// import Dial from "@/components/dial";
 import ComingSoon from "@/components/coming-soon";
 export default function Home() {
   return (
