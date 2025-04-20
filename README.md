@@ -1,18 +1,18 @@
-# 🌐 Az's Personal Portfolio
+### 🌐 lssndrr's portfolio
 
-Welcome to my personal portfolio! I'm Alessandra (Az), a Computer Science student at UP Cebu and an aspiring software engineer. This site is where I share a bit about who I am, what I'm learning, and what I’ve built (and am still building!).
+Welcome to my personal portfolio! I am a Computer Science student at UP Cebu and an aspiring software engineer. This site is where I share a bit about who I am, what I'm learning, and what I’ve built (and am still building!).
 
-👉 **Visit the live site** [agbusinos.space](here!)
+👉 **Visit the live site** [here!](agbusinos.space)
 
 ---
 
-## 📓 Changelog
+#### 📓 Changelog
 
-See [`CHANGELOG.md`](./CHANGELOG.md) for development progress.
+See [`CHANGELOG.md`](./CHANGELOG.md) for the development progress!
 
-## 📌 Status
+#### 📌 Status
 
-🛠️ Currently in early development.  
+🛠️ Currently in early development
 ✅ Live!
 🔜 Responsive design and more sections coming soon!
 
