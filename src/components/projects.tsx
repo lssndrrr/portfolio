@@ -3,7 +3,7 @@
 import { useEffect, useRef } from "react";
 import Card from "./card";
 import gsap from "gsap";
-import ReactLenis from "@studio-freight/react-lenis";
+import { ReactLenis } from "lenis/react";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import { projects } from "@/constants/projects";
 
@@ -86,8 +86,6 @@ export default function Projects() {
       });
     });
   }, []);
-
-  const title = container.current?.querySelector(".title-container");
 
   useEffect(() => {
     return () => {
