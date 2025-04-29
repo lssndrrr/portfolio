@@ -1,5 +1,11 @@
 # 📓 Changelog
 
+### v0.2.0 - April 30, 2025
+
+- Added the project showcase section
+- Changed icon
+- Added my top 5 current projects
+
 ### v0.1.0 – April 20, 2025
 
 - First meaningful version of the site
