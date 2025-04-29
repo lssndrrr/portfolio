@@ -29,6 +29,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+      </head>
       <body
         className={`${playfair_display.variable} ${inter_tight.variable} antialiased bg-[#1e1e1e] text-white`}
       >
